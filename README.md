@@ -54,6 +54,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
+![Snake animation](https://github.com/warriorwizard/warriorwizard/blob/output/github-contribution-grid-snake.svg)
+
 
 📈 my github stats
 
