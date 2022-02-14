@@ -13,7 +13,7 @@
   <img align="left" alt="Amit's Youtube" width="22px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />
 </a>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
+
 ![](https://visitor-badge.glitch.me/badge?page_id=warriorwizard.warriorwizard)
 
 <br />
@@ -43,7 +43,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
