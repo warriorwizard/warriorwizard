@@ -58,9 +58,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ![Snake animation](https://github.com/warriorwizard/warriorwizard/blob/output/github-contribution-grid-snake.svg)
 
 
-📈 my github stats
+📈 my github stats and top language i used 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=warriorwizard&show_icons=true&theme=gotham" alt="Amit Yadav" />
+<snap> <img src="https://github-readme-stats.vercel.app/api?username=warriorwizard&show_icons=true&theme=gotham" alt="Amit Yadav" />
+<snap> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warriorwizard&show_icons=true&theme=gotham" alt="Amit Yadav" />
 
 
 
