@@ -55,7 +55,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p>
 <snap> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warriorwizard&show_icons=true&theme=gotham&layout=compact&hide=jupyter%20notebook" alt="Amit Yadav" />
-<snap> <img src="https://github-readme-stats.vercel.app/api?username=warriorwizard&show_icons=true&theme=gotham" alt="Amit Yadav" />
+<snap> <img align="right" src="https://github-readme-stats.vercel.app/api?username=warriorwizard&show_icons=true&theme=gotham" height="200" alt="Amit Yadav" />
  </p>
 
 
