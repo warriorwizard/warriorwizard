@@ -72,6 +72,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+
+[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=amitya_dav&layout=wide&style=for-the-badge)](https://twitter.com/amitya_dav)
+
+
 <!---
 warriorwizard/warriorwizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
