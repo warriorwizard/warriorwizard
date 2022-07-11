@@ -66,7 +66,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warriorwizard&theme=gotham&hide=jupyter%20notebook" />
 <img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=warriorwizard&theme=gotham" />	
 </p>
-
+<p>	Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
 <!---
 warriorwizard/warriorwizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
