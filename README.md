@@ -73,7 +73,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 
-#[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=amitya_dav&layout=wide&style=for-the-badge)](https://twitter.com/amitya_dav)
+<!-- [![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=amitya_dav&layout=wide&style=for-the-badge)](https://twitter.com/amitya_dav) -->
 
 
 <img height="100%" width="100%" alt="Bottom" src="https://github.com/warriorwizard/warriorwizard/blob/main/bottom_header.svg"/>
