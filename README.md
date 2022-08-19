@@ -23,6 +23,53 @@ hi, i'm [Amit Yadav](http://iamamit.me/I_am_Amit/), a passionate self-taught AI 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
+
+```
+const amit = {
+    pronouns: "He" | "Him",
+    code: [ "Python", "JAVA", "CPP", "HTML", "CSS", "SOLIDITY"],
+    askMeAbout: ["machine learning","artificial intelligence", "tech", "cyber security", "blockchain", "QA", "linux"],
+    technologies: {
+    	machine learing:{
+	    framework: ["Tensorflow", "Pytorch", "Open-CV"]
+	    cloud work:["GCP", "AWS", "AZURE"]
+	}
+        frontEnd: {
+            js: ["React", "Next", "Redux", "jQuery"],
+            css: ["materialize", "saas", "bootstrap, "materialUI", "Chakra", "Tailwind"]
+        },
+        backEnd: {
+            js: ["node],
+            python: ["django"]
+        },
+        version control: ["Git", "GitHub"],
+        API: ["REST API"],
+        devOps: ["AWS", "Docker🐳", "GCP", "GitHub Actions", "CircleCI"],
+        databases: ["mongoDB", "MySQL"],
+        misc: ["Firebase", "Socket.IO"],
+        testing: [ "Selenium", 
+                   "PyTest", ]
+    },
+    toolsUsing: ["Photoshop", "Bootstrap Studio", "Figma"],
+    techCommunities: {
+                        Club Manager: "Blockchain Club",
+                      },
+    workplace: {
+                college: 'NIET',
+                course: 'B-Tech',
+		specialization : 'AI and machine learning'
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentProject: "I am developing an AI based mentoring system",
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    availableForHire: true
+};
+```
+
+
+
+
+
   <img align="right" alt="GIF" src="https://github.com/warriorwizard/warriorwizard/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:amitech90@gmail.com) :)
