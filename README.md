@@ -33,33 +33,21 @@ const amit = {
     	machine learing:{
 	    framework: ["Tensorflow", "Pytorch", "Open-CV"]
 	    cloud work:["GCP", "AWS", "AZURE"]
-	}
-        frontEnd: {
-            js: ["React", "Next", "Redux", "jQuery"],
-            css: ["materialize", "saas", "bootstrap, "materialUI", "Chakra", "Tailwind"]
-        },
-        backEnd: {
-            js: ["node],
-            python: ["django"]
-        },
+	},
         version control: ["Git", "GitHub"],
-        API: ["REST API"],
-        devOps: ["AWS", "Docker🐳", "GCP", "GitHub Actions", "CircleCI"],
+        API: ["REST API","Postman"],
+         devOps: ["AWS", "Docker🐳", "GCP", "GitHub Actions", "CircleCI"],
         databases: ["mongoDB", "MySQL"],
-        misc: ["Firebase", "Socket.IO"],
-        testing: [ "Selenium", 
-                   "PyTest", ]
     },
-    toolsUsing: ["Photoshop", "Bootstrap Studio", "Figma"],
     techCommunities: {
                         Club Manager: "Blockchain Club",
+			Memeber: "Google Develop Club",
                       },
     workplace: {
                 college: 'NIET',
                 course: 'B-Tech',
 		specialization : 'AI and machine learning'
     },
-    architecture: ["Progressive web applications", "Single page applications"],
     currentProject: "I am developing an AI based mentoring system",
     funFact: "There are two ways to write error-free programs; only the third one works",
     availableForHire: true
