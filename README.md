@@ -36,12 +36,12 @@ const amit = {
 	},
         version control: ["Git", "GitHub"],
         API: ["REST API","Postman"],
-         devOps: ["AWS", "Docker🐳", "GCP", "GitHub Actions", "CircleCI"],
+        devOps: ["AWS", "Docker🐳", "GCP", "GitHub Actions", "CircleCI"],
         databases: ["mongoDB", "MySQL"],
     },
     techCommunities: {
                         Club Manager: "Blockchain Club",
-			Memeber: "Google Develop Club",
+			Memeber: "Google Developer Club",
                       },
     workplace: {
                 college: 'NIET',
