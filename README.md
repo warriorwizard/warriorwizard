@@ -110,7 +110,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- [![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=amitya_dav&layout=wide&style=for-the-badge)](https://twitter.com/amitya_dav) -->
 
-[![@warriorwizard's Holopin board](https://holopin.io/api/user/board?user=warriorwizard)](https://holopin.io/@warriorwizard)
+[![@warriorwizard's Holopin board](https://holopin.me/warriorwizard)](https://holopin.io/@warriorwizard)
 
 
 <img height="100%" width="100%" alt="Bottom" src="https://github.com/warriorwizard/warriorwizard/blob/main/bottom_header.svg"/>
