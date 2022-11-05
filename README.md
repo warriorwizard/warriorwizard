@@ -113,6 +113,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![@warriorwizard's Holopin board](https://holopin.me/warriorwizard)](https://holopin.io/@warriorwizard)
 
 
-<img height="100%" width="100%" alt="Bottom" src="https://github.com/warriorwizard/warriorwizard/blob/main/bottom_header.svg"/>
+<img height="100%" width="100%" alt="Bottom" src="https://github.com/warriorwizard/warriorwizard/blob/main/bottom_header.svg"/> 
 
 
