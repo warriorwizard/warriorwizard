@@ -27,22 +27,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ```
 const amit = {
     pronouns: "He" | "Him",
-    code: [ "Python", "JAVA", "CPP", "HTML", "CSS", "SOLIDITY"],
+    code: [ "Python", "JAVA", "CPP"],
     askMeAbout: ["machine learning","artificial intelligence", "tech", "cyber security", "blockchain", "QA", "linux"],
     technologies: {
     	machine learing:{
 	    framework: ["Tensorflow", "Pytorch", "Open-CV"]
 	    cloud work:["GCP", "AWS", "AZURE"]
 	},
-        version control: ["Git", "GitHub"],
-        API: ["REST API","Postman"],
         devOps: ["AWS", "Docker🐳", "GCP", "GitHub Actions", "CircleCI"],
-        databases: ["mongoDB", "MySQL"],
     },
-    techCommunities: {
-                        Club Manager: "Blockchain Club",
-			Memeber: "Google Developer Club",
-                      },
     workplace: {
                 college: 'NIET',
                 course: 'B-Tech',
