@@ -6,13 +6,17 @@
 <a href="https://www.linkedin.com/in/amit-yadav-9a417318a">
   <img align="left" alt="Amit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<!---
 <a href="https://www.instagram.com/amitya_dav/">
   <img align="left" alt="Amit's Insta" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
 </a>
+
+
 <a href="https://www.youtube.com/channel/UCXABr3Eoq4tNpPXpKI62PxA">
   <img align="left" alt="Amit's Youtube" width="22px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />
 </a>
-
+-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=warriorwizard.warriorwizard)
 
@@ -23,7 +27,7 @@ hi, i'm [Amit Yadav](http://iamamit.me/I_am_Amit/), a passionate self-taught AI 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-
+<!---
 ```
 const amit = {
     pronouns: "He" | "Him",
@@ -47,7 +51,7 @@ const amit = {
 };
 ```
 
-
+-->
 
 
 
