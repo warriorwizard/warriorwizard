@@ -1,22 +1,22 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <a href="https://twitter.com/amitya_dav">
-  <img align="left" alt="Amit Yadav | Twitter" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)" />
+  <img align="left" alt="Amit Yadav | Twitter" width="22px" src="https://cdn.simpleicons.org/x" />
 </a>
 <a href="https://www.linkedin.com/in/amit-yadav-9a417318a">
-  <img align="left" alt="Amit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Amit's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
-<!---
+
 <a href="https://www.instagram.com/amitya_dav/">
-  <img align="left" alt="Amit's Insta" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
+  <img align="left" alt="Amit's Insta" width="22px" src="https://cdn.simpleicons.org/instagram" />
 </a>
 
 
 <a href="https://www.youtube.com/channel/UCXABr3Eoq4tNpPXpKI62PxA">
-  <img align="left" alt="Amit's Youtube" width="22px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />
+  <img align="left" alt="Amit's Youtube" width="22px" src="https://cdn.simpleicons.org/youtube" />
 </a>
--->
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=warriorwizard.warriorwizard)
 
