@@ -1,7 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <a href="https://twitter.com/amitya_dav">
-  <img align="left" alt="Amit Yadav | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Amit Yadav | Twitter" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)" />
 </a>
 <a href="https://www.linkedin.com/in/amit-yadav-9a417318a">
   <img align="left" alt="Amit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
