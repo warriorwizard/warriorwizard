@@ -17,74 +17,68 @@
 
 <br />
 
-hi, i'm **Amit Yadav**, an AI Engineer working on **computer vision, agentic systems, and production-grade GenAI**.  
-I enjoy building AI systems end-to-end — from model training to deployment, orchestration, and monitoring.
+hi, i'm **Amit Yadav**, an Independent AI Consultant & Systems Engineer.  
+I build advanced, mission-critical systems across **medical AI, robotics perception, real-time inference optimization, and cognitive architectures**.
 
-I care deeply about clean architecture, reproducibility, and shipping things that actually work in production.
+I work end-to-end on ambitious, high-stakes builds—from mathematical formulation and custom neural architectures to low-level hardware acceleration and distributed cluster orchestration.
 
 ---
 
-<img align="right" alt="code" src="https://github.com/warriorwizard/warriorwizard/blob/main/code.gif?raw=true" width="480" />
+- AI Consultant & Systems Architect (advisory, performance audits, greenfield builds)
+- Medical AI & 3D Volumetric Imaging (CT/MRI segmentation, surgical vision)
+- Physical AI & Robotics Perception (ROS2, embedded spatial vision, Nvidia Warp)
+- Low-latency inference optimization & custom CUDA kernels
+- Stateful cognitive architectures & internal world simulation
+- CKA-certified Kubernetes cluster orchestration & bare-metal ML infrastructure
 
-- GenAI Engineer (AI agents, RAG, automation)
-- computer vision & multimodal ML
-- ML systems, deployment, and infra
-- open to freelance & collaborations
-
-📫 **amitech90@gmail.com**
+Contact & Advisory: **amitech90@gmail.com**
 
 ---
 
 ### current focus
 
-- multi-agent GenAI workflows (MCP, ADK, A2A)
-- vision systems (YOLO, OCR, real-time pipelines)
-- multimodal pipelines (text, vision, audio)
-- ML infra, monitoring, and evaluation
+- 3D medical vision & intraoperative surgical guidance (MONAI, DICOM streaming)
+- real-time robotics perception & spatial computing on edge hardware (ROS2, TensorRT)
+- low-latency inference pipelines (custom CUDA backends, quantization, Triton, vLLM)
+- stateful cognitive systems (hierarchical memory, metacognition, internal simulation)
+- bare-metal multi-GPU orchestration & cluster reliability (CKA certified)
 
 ---
 
 ### languages & tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://github.com/stodev-com-br/opencv/wiki/logo/OpenCV_logo_no_text.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="PyTorch" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
+<code><img height="20" alt="CUDA" src="https://raw.githubusercontent.com/github/explore/master/topics/cuda/cuda.png"></code>
+<code><img height="20" alt="OpenCV" src="https://github.com/stodev-com-br/opencv/wiki/logo/OpenCV_logo_no_text.png"></code>
+<code><img height="20" alt="Linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
+<code><img height="20" alt="Docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 
 ---
 
-### selected work
+### selected work & architectures
 
-- **Enterprise GenAI Agents**  
-  Multi-agent workflows for knowledge retrieval, automation, and developer assistance.
+- **Volumetric Medical Diagnostic & Surgical Guidance Mesh**  
+  End-to-end clinical perception pipeline processing high-density 3D CT/MRI scans and intraoperative video feeds. Combines MONAI backbones with zero-copy C++ streaming for real-time anatomical boundary detection and surgical instrument localization.
 
-- **Vision & OCR Systems**  
-  Real-time detection, OCR, and analytics using YOLO, PaddleOCR, OpenCV.
+- **Low-Latency Inference Optimization Runtime**  
+  Customized inference execution runtime built to eliminate off-the-shelf framework overhead. Features tailored CUDA kernel integration, FlashAttention memory optimizations, and INT4/FP8 quantization (AWQ/GPTQ) for deterministic, high-throughput model serving.
 
-- **Scene-based AI Video Pipeline**  
-  Script → scenes → TTS → image generation → final rendered video.
+- **Stateful Cognitive Architecture & Internal World Simulator**  
+  A computer-realizable cognitive topology designed to move beyond stateless autoregressive chatbots. Incorporates decoupled perception modules, hierarchical memory stores (working, episodic, semantic), a metacognitive governor, and an asynchronous internal simulation loop ("dream state") for offline counterfactual reasoning and hypothesis testing.
 
-- **MCP Server**  
-  LLM-driven access to internal APIs using Model Context Protocol.
+- **Embedded Edge Robotics Perception Engine**  
+  Autonomous spatial perception and sensor fusion pipeline running at a steady 60 FPS on embedded edge hardware. Couples ROS2 with optimized TensorRT backends for visual odometry, real-time tracking, and dynamic collision avoidance.
 
----
+- **Distributed Multi-GPU Compute Mesh**  
+  High-availability bare-metal Kubernetes deployment (CKA certified) on Debian Linux tailored for distributed model inference, featuring automated node failover, dedicated GPU workload isolation, and zero-downtime rolling updates.
 
-if you like my work, you can support it here
-
-<a href="https://www.buymeacoffee.com/warriorwizard" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150">
-</a>
-
----
 
 ![Snake animation](https://github.com/warriorwizard/warriorwizard/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-[![@warriorwizard's Holopin board](https://holopin.me/warriorwizard)](https://holopin.io/@warriorwizard)
 
 <img width="100%" alt="footer" src="https://github.com/warriorwizard/warriorwizard/blob/main/bottom_header.svg"/>
